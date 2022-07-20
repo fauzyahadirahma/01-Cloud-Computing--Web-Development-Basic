@@ -159,4 +159,6 @@ Belajar Dasar Pemrograman Web
       * Latihan - Menambahkan Riwayat Kalkulasi pada Web Kalkulator
       * Latihan - Menerapkan Styling pada Tabel Riwayat
       * Latihan - Menerapkan localStorage pada Kalkulator
+  * Penutup
+      * Ujian Akhir
       

@@ -109,7 +109,7 @@ Belajar Dasar Pemrograman Web
       * Membuat Sticky Navigation
       * Memperbaiki CSS
       
-**20 Februari 2022**
+**20 Februari 2022**  
 Belajar Dasar Pemrograman Web  
   * Layout Responsif Menggunakan Flexbox
       * Responsive Layout menggunakan Flexbox
@@ -123,7 +123,7 @@ Belajar Dasar Pemrograman Web
       * Latihan - Mempercantik Tampilan Kalkulator
       * Tampilan Responsif pada Mobile
       
-**21 Februari 2022**
+**21 Februari 2022**  
 Belajar Dasar Pemrograman Web 
   * JavaScript Basic dan Manipulasi DOM
       * Perkenalan JavaScript And DOM
@@ -151,7 +151,7 @@ Belajar Dasar Pemrograman Web
       * Menambahkan Aksi (Event) pada Element
       * Menerapkan JavaScript pada Web Kalkulator
       
-**22 Februari 2022**
+**22 Februari 2022**  
 Belajar Dasar Pemrograman Web
   * Web Storage
       * Perkenalan ke Web Storage

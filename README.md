@@ -1,5 +1,5 @@
 Kampus Merdeka x BANGKIT 2022   
-# 01  Cloud Computing - Web Development Basic  
+# 01. Cloud Computing - Web Development Basic  
 Repository ini Berisi Pengalaman Belajar saya di Bangkit 2022 pada Minggu Pertama   
   
 **16 Februari 2022**  
